@@ -5,6 +5,10 @@ An AI-powered automation system that executes predefined actions using voice com
 ---
 ![App Screenshot](screenshot.png)
 ---
+## 🎥 Demo
+
+[Watch Demo](synergy-demo.mp4)
+
 ## 🚀 Features
 
 - 🎤 Voice command activation  

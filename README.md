@@ -3,7 +3,8 @@
 An AI-powered automation system that executes predefined actions using voice commands or clap triggers.
 
 ---
-
+![App Screenshot](screenshot.png)
+---
 ## 🚀 Features
 
 - 🎤 Voice command activation  

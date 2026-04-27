@@ -7,7 +7,7 @@ An AI-powered automation system that executes predefined actions using voice com
 ---
 ## 🎥 Demo
 
-[Watch Demo](synergy-demo.mp4)
+[Watch Demo](synergy-demo.mp4.mp4)
 
 ## 🚀 Features
 

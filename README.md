@@ -8,7 +8,17 @@ An AI-powered automation system that executes predefined actions using voice com
 ## 🎥 Demo
 
 [Watch Demo](synergy-demo.mp4.mp4)
+-----
+## 📥 Download
 
+👉 Download from Google Drive:
+(https://drive.google.com/file/d/1IHcPhgNZdtY97DGzv7pqk9ET12fesBBm/view?usp=sharing)
+
+Steps:
+1. Download ZIP file
+2. Extract it
+3. Run the .exe file
+---
 ## 🚀 Features
 
 - 🎤 Voice command activation  
